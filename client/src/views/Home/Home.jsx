@@ -16,7 +16,7 @@
 
 //     return (
 //     <div>
-//         <h1> Estas en home</h1>
+//         <h1> Estas en  home</h1>
 //         <CardContener/>
 //         <SearchBar > </SearchBar>
 
